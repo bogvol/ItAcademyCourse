@@ -1,1 +1,1 @@
-"# ItAcademyCourse" 
+This project is used by sudents of IT Academy
