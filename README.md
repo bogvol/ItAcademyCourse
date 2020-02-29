@@ -1,1 +1,1 @@
-This project is used by sudents of IT Academy
+This project is used by students of IT Academy
