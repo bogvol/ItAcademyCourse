@@ -1,4 +1,4 @@
-package newpackaje;
+package newpackage;
 
 public class SomeClass {
 	public void print(){
